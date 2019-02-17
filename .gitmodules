@@ -1,0 +1,3 @@
+[submodule "itmal"]
+	path = itmal
+	url = https://cfrigaard@bitbucket.org/cfrigaard/itmal.git
